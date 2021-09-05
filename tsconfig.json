@@ -6,6 +6,7 @@
     }
   },
   "compilerOptions": {
+    "lib": ["ES2015", "DOM"],
     "declaration": true,
     "moduleResolution": "node",
     "module": "es2015"
